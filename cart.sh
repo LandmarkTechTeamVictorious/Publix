@@ -3,3 +3,5 @@ Apples
 Oranges
 Pears
 Grapes
+Lemon 
+Cherry
